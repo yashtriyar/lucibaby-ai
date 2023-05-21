@@ -1,0 +1,13 @@
+OpenAI response for Prompt: using artificial intelligence give a code to reverse an array 
+ *************************
+
+
+
+def reverse_array(arr): 
+    rev_arr = arr[::-1] 
+    return rev_arr 
+  
+arr = [1, 2, 3, 4, 5] 
+result = reverse_array(arr) 
+  
+print(result)

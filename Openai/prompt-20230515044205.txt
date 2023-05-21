@@ -1,0 +1,18 @@
+OpenAI response for Prompt: what can be done using artificial intelligence 
+ *************************
+
+
+
+1. Automation: Artificial intelligence can be used to automate tasks such as customer service, data collection and analysis, and even some physical tasks like assembly line work.
+
+2. Image and Speech Recognition: AI can be used to recognize images and speech, allowing machines to understand humans and interact with them in more natural ways.
+
+3. Predictive Analysis: AI can be used to predict future outcomes, such as customer buying patterns or stock market trends.
+
+4. Robotics: AI can be used to control robots, both in manufacturing and other industries.
+
+5. Natural Language Processing: AI can be used to understand and respond to human language, allowing for voice-controlled assistants and other interactive technologies.
+
+6. Autonomous Vehicles: AI can be used to power autonomous vehicles, such as self-driving cars and drones.
+
+7. Augmented Reality: AI can be used to create interactive, immersive experiences, such as augmented reality games and virtual reality simulations.
